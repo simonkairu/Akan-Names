@@ -1,0 +1,24 @@
+body{
+    margin: 0;
+    padding: 0;
+    align-items: center;
+    position: relative;
+    box-sizing: border-box;
+    background: black;
+}
+
+
+
+
+.wrapper{
+    align-items: center;
+    width: 35%;
+    margin: auto;
+    background:crimson;
+    box-sizing: border-box;
+   margin-top: 7em;
+   height: 60vh;
+   box-shadow: 5px 5px 10px salmon;
+
+
+}
