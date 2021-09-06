@@ -28,4 +28,4 @@ Incase of any support or any idea to make the app more functionial kindly reach 
 
 ### License
 MIT
-Copyright (c) {year} **{List of contributors or company name}**
+Copyright (c) {year} Simon Kairu,Moringa School
