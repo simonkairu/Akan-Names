@@ -17,8 +17,20 @@ body{
     background:crimson;
     box-sizing: border-box;
    margin-top: 7em;
-   height: 60vh;
+   height: 80vh;
    box-shadow: 5px 5px 10px salmon;
 
 
+}
+
+.set{
+    align-items: center;
+    width: 100%;
+    margin: auto;
+    margin-left: 20%;
+
+}
+.sbtn-1{
+    align-items: center;
+    margin-left: 40%;
 }

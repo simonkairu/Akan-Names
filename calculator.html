@@ -10,44 +10,43 @@
 </head>
 <body>
 
+            
     
-    <div class="container  wrapper">
-
-
+               <!----------------Html form with the Required fields ------------------>
     
-    <form method="post" class="pl-5">
-        <div class="container">
-            <div class="coniner">
-                <p class="m-1">Date of Birth</p>
-            </div>
-            <div class="container">
-                <div class="row ml-2">
-                    <label>Date:</label> <br> <input TYPE="text" NAME="day" SIZE="3"> 
-                    <label>Month:</label> <br><input TYPE="text" NAME="month" SIZE="3"> 
-                    <label>Year:</label><br> <input TYPE="text" NAME="year" SIZE="3"> 
-                    <label>Gender:</label>  <br>
-                    <select name="" id="">
+    <div class="container wrapper">
+        
+        <div id="form" method="POST">
+            
+            <div class="set">
+                <h3>Enter your Details</h3>
+                        <label>Day</label><br />
+                        <input type="text" id="day" placeholder="Day in digits" required /><br /><br />
 
-                        <option value="">male</option>
-                        <option value="">female</option>
-                    </select>
-                   
-                </div>
-            </div>
-        </div>
+                        <label>Month</label><br />
+                        <input type="text" id="month" placeholder="Month in digits" required /><br /><br />
+
+                        <label>Year</label><br />
+                        <input type="text" id="year" placeholder="Year in digits" required /><br /><br />
+
+                        <label>Gender</label><br />
+                        <input type="radio" name="gender" id="gender" value="male" checked /> Male
+                        <br />
+                        <input type="radio" name="gender" id="gender" value="female" /> Female
+                        <br /><br />
+                        <input type="submit" class="btn-1 bg-primary btn btn-primary btn-lg active" value="Submit" onclick="output()" />
+
+                        
+           </div>
+           </div>
+                    <p id="results">RESULTS</p>
+                
+
 
    
-    <div class="container text-center mt-3">     
-      
-            <input TYPE="button" VALUE="Submit" SIZE="3"> </P> 
-    </div>
+
     
-    <div class="container text-center">
-        <p id="now"></p>
-    </div>
-</form>
-</div>
-            
+    
 <script src="script.js"></script>    
 
 </body>
