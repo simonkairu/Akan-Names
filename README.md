@@ -27,5 +27,5 @@ There are currently no known bugs
 Incase of any support or any idea to make the app more functionial kindly reach out simonkairu14@gmail.com
 
 ### License
-*{Determine the license under which this application can be used.  See below for more details on licensing.}*
+MIT
 Copyright (c) {year} **{List of contributors or company name}**
