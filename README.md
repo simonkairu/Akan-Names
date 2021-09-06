@@ -6,12 +6,14 @@ Akans is a website for generating ghanian names based on the day someone wa born
 ## Design
 https://www.figma.com/file/RoOJ0fKBKi0i0GJZGf4LnY/akan
 ## Setup/Installation Requirements
-* This is a great place
-* to list setup instructions
-* in a simple
-* easy-to-understand
-* format
-{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? Do I need to install any dependencies? How should I set up my databases? Is there other code this app depends on?}
+The project is under the MIT licence making it easy for anyone who wants to use it,you can clone it to your machine
+
+Open your terminal command prompt for windows.
+Change the current working directory to the location where you want the cloned directory ie Desktop,Documents ets.
+Type $ git clone then paste https://github.com/simonkairu/Akan-Names.git
+Enter to create your local clone.
+This will clone the repositoty into your local folder in your laptop.
+You can then run it using any code editor that you like
 ## Known Bugs
 {Are there issues that have not yet been resolved that you want to let users know you know? Outline any issues that would impact use of your application. Share any workarounds that are in place. }
 ## Technologies Used
