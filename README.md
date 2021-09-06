@@ -17,7 +17,12 @@ You can then run it using any code editor that you like
 ## Known Bugs
 There are currently no known bugs 
 ## Technologies Used
-{Tell me about the languages and tools you used to create this app. Assume that I know you probably used HTML and CSS. If you did something really cool using only HTML, point that out.}
+.HTML(Hypertext Mark-up Language)
+.CSS (Cascading Style Sheet)
+.Bootstrap
+.javascript
+.Git
+.Figma (for design)
 ## Support and contact details
 {Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}
 ### License
