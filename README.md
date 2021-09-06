@@ -1,5 +1,5 @@
 # Akan-Names
-#### {Akans is an application to display ghananians female and male names based on the day they were born}, {Date of current version}
+#### {Akans is an application to display ghananians female and male names based on the day they were born}, {version1.0 4/9/2021}
 #### By **{List of contributors}**
 ## Description
 {This is a detailed description of your application, including its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }
