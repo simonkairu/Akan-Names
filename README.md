@@ -17,12 +17,12 @@ You can then run it using any code editor that you like
 ## Known Bugs
 There are currently no known bugs 
 ## Technologies Used
-.HTML(Hypertext Mark-up Language)
-.CSS (Cascading Style Sheet)
-.Bootstrap
-.javascript
-.Git
-.Figma (for design)
+1 HTML(Hypertext Mark-up Language)
+2 CSS (Cascading Style Sheet)
+3 Bootstrap
+4 javascript
+5 Git
+6 Figma (for design)
 
 
 ## Support and contact details
