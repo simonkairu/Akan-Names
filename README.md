@@ -16,6 +16,11 @@ This will clone the repositoty into your local folder in your laptop.
 You can then run it using any code editor that you like
 ## Known Bugs
 There are currently no known bugs 
+
+## Behaviour Driven Development(BDD)
+|Behaviour| Input| Output|
+|:--------|:-----|:------|
+|User accesses the calculate Akan name form | User enters required values on the form | Akan name is displayed at the end of the form|
 ## Technologies Used
 1 HTML(Hypertext Mark-up Language)
 
@@ -28,6 +33,7 @@ There are currently no known bugs
 5 Git
 
 6 Figma (for design)
+
 
 
 ## Support and contact details
