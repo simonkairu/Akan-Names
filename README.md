@@ -23,6 +23,8 @@ There are currently no known bugs
 .javascript
 .Git
 .Figma (for design)
+
+
 ## Support and contact details
 Incase of any support or any idea to make the app more functionial kindly reach out simonkairu14@gmail.com
 
