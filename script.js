@@ -52,6 +52,6 @@ function output() {
     } else if (Math.round(result) == 5 && gender === "female") { document.getElementById("results").innerHTML = "You were born on " + days[dayOfTheWeek] + "  ,Your akan name is " + femaleName[5];
     } else if (Math.round(result) == 6 && gender === "female") { document.getElementById("results").innerHTML = "You were born on " + days[dayOfTheWeek] + "  ,Your akan name is " + femaleName[6];
     } else if (Math.round(result) == 0 && gender === "female") {document.getElementById("results").innerHTML = "You were born on " + days[dayOfTheWeek] + "  ,Your akan name is " + femaleName[1];
-    } else { swal("Fill in all required fields");
+    } else { alert("Fill in all required fields");
     }
 }
