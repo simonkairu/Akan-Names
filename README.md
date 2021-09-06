@@ -15,7 +15,7 @@ Enter to create your local clone.
 This will clone the repositoty into your local folder in your laptop.
 You can then run it using any code editor that you like
 ## Known Bugs
-There are currently no known bugs 
+Incorrect name output on some days 
 
 ## Behaviour Driven Development(BDD)
 |Behaviour| Input| Output|
