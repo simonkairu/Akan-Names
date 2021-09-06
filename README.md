@@ -41,4 +41,4 @@ Incase of any support or any idea to make the app more functionial kindly reach 
 
 ### License
 MIT
-Copyright (2021) {year} Simon Kairu,Moringa School
+Copyright (c) {2021} Simon Kairu,Moringa School
