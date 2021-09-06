@@ -3,6 +3,8 @@
 #### By Simon Kairu
 ## Description
 Akans is a website for generating ghanian names based on the day someone wa born both male and female names.
+## Design
+https://www.figma.com/file/RoOJ0fKBKi0i0GJZGf4LnY/akan
 ## Setup/Installation Requirements
 * This is a great place
 * to list setup instructions
