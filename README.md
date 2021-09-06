@@ -2,7 +2,7 @@
 #### {Akans is an application to display ghananians female and male names based on the day they were born}, {version1.0 4/9/2021}
 #### By Simon Kairu
 ## Description
-{This is a detailed description of your application, including its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }
+Akans is a website for generating ghanian names based on the day someone wa born both male and female names.
 ## Setup/Installation Requirements
 * This is a great place
 * to list setup instructions
